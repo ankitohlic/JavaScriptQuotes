@@ -37,6 +37,6 @@ And it looks like after clicking tweet button
 
 ## 🔗 Links
 
-[PopUp animation](https://type.fit/api/quotes)
+[API Data](https://type.fit/api/quotes)
 
 [Twitter API](https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/overview)
